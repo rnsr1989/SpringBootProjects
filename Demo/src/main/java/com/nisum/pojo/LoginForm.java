@@ -2,6 +2,7 @@ package com.nisum.pojo;
 
 public class LoginForm {
 	private String userName;
+	//username
 	private String password;
 	public String getUserName() {
 		return userName;
